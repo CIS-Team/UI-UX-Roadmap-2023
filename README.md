@@ -12,7 +12,7 @@
 -   You will be designing ideas using various methods and latest technology. You will be designing graphic **user interface (UI)** elements, like menus, tabs, forms, and widgets.
 
 ![Figma vs Adobe XD](https://miro.medium.com/max/1400/1*oUID4ZXsobwQgP-ypSDjGw.png)
-## **Before Starting we should install:-**
+## **▶Before Starting we should install:-**
 
 -   [Adobe Creative Cloud](https://www.adobe.com/mena_en/creativecloud/desktop-app.html)
     
@@ -20,7 +20,7 @@
     
 - **OR** install [Figma](https://www.figma.com/downloads/) if you have any problem in Adobe XD
 
-## **Level 1 (UI Design):-**
+## **▶Level 1 (UI Design):-**
 
 -   **General information about what is the difference between UI and UX ?**
     [https://drive.google.com/file/d/1aRqHcav5_nKY6QV2iAqKmxi_myy0qIUI/view?usp=sharing](https://drive.google.com/file/d/1aRqHcav5_nKY6QV2iAqKmxi_myy0qIUI/view?usp=sharing)  
@@ -48,7 +48,7 @@
 - **How to make your first mockup**   
   Will add it soon 
 
-## **Level 2 (UX Design):**
+## **▶Level 2 (UX Design):**
 
 -   **Basics of UX with how to make wireframes (Edraak).**
     [https://www.edraak.org/course/course-v1:Edraak+UX1+2018_T1/](https://www.edraak.org/course/course-v1:Edraak+UX1+2018_T1/)   
@@ -63,7 +63,7 @@
 
 ![Google & Udacity](https://repository-images.githubusercontent.com/100110021/20348800-2cd2-11eb-85e2-939d91f9ac5e)
 
-## **Level 3 (More Advanced):**
+## **▶Level 3 (More Advanced):**
 
 -   **Nanodegree From [Udacity](https://www.udacity.com/course/ux-designer-nanodegree--nd578) ([AAL Scholarship](http://techleaders.eg/aal/tracks/))**  
     **Registration:**  [http://techleaders.eg/aal/register/](http://techleaders.eg/aal/register/)
