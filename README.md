@@ -30,7 +30,7 @@
     **Deadline:**  1 - 2 weeks.
 
 --------------------------------------------------------------------------------------------------------
-> ## # IF YOU HAVE ANY PROBLEM IN ADOBE XD START WITH Figma
+> ## ⚠ IF YOU HAVE ANY PROBLEM IN ADOBE XD START WITH Figma
 
 -   **How To Use Figma (Arabic Playlist) ?**
 [https://www.youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ](https://www.youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ)   
