@@ -45,7 +45,7 @@
 - **Making Restaurant App ( From yourself )**   
 **Deadline:** 3 days.
 
-- **How to make your first mockup** 
+- **How to make your first mockup**   
   Will add it soon 
 
 ## **Level 2 (UX Design):**
