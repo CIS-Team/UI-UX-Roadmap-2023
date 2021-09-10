@@ -77,15 +77,18 @@
 
 ## **▶More Suggestions:**
 
+-   **Resource for all material you need to use**
+    - [https://www.evernote.design/?fbclid=IwAR2veLhzqymTHjZEm2LDVNkqCAMx2Yp0KtDlcKiqkDg-c3c3IsbzAbn8a9s](https://www.evernote.design/?fbclid=IwAR2veLhzqymTHjZEm2LDVNkqCAMx2Yp0KtDlcKiqkDg-c3c3IsbzAbn8a9s)
+
 -   **Arabic Book about ([Intro UX](https://drive.google.com/file/d/1HNvrSpFGCUS9UmQBdC1xRdIrZgAzQLoU/view?usp=sharing))**
 
 -   **More Books about ([UI & UX](https://drive.google.com/drive/folders/1CQQy865cKgS5WDs8Ke1OvrMQXcMqGpl7))**
   
 -   **Important Article about ([10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/?fbclid=IwAR3nB_B30krDyIQ1GCY0Svel_gyGsFfirSgaGoSzmVo3bBOZnTCIT_5mkIg)) for User Interface Design**
 
--  **Important Articles about ([Visual Designs](https://docs.google.com/document/d/1BsdoY6clct9-mx0mrTjlmAUnqufJqprbkGySTZIAkrA/edit))**
+-   **Important Articles about ([Visual Designs](https://docs.google.com/document/d/1BsdoY6clct9-mx0mrTjlmAUnqufJqprbkGySTZIAkrA/edit))**
     
-- **Participate in [Innovegypt](https://www.facebook.com/InnovEgypt).**
+-   **Participate in [Innovegypt](https://www.facebook.com/InnovEgypt).**
 
 ## **▶️Our Contacts📱**
 
