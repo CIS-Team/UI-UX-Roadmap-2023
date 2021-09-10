@@ -23,8 +23,8 @@
 ## **▶Level 1 (UI Design):-**
 
 -   **General information about what is the difference between UI and UX ?**
-    [https://drive.google.com/file/d/1aRqHcav5_nKY6QV2iAqKmxi_myy0qIUI/view?usp=sharing](https://drive.google.com/file/d/1aRqHcav5_nKY6QV2iAqKmxi_myy0qIUI/view?usp=sharing)
-    [https://youtu.be/Q2wnI3xnBlo](https://youtu.be/Q2wnI3xnBlo)
+    - [https://drive.google.com/file/d/1aRqHcav5_nKY6QV2iAqKmxi_myy0qIUI/view?usp=sharing](https://drive.google.com/file/d/1aRqHcav5_nKY6QV2iAqKmxi_myy0qIUI/view?usp=sharing)
+    - [https://youtu.be/Q2wnI3xnBlo](https://youtu.be/Q2wnI3xnBlo)
     **Deadline:**  1 - 2 days.
 
 -   [How to use Adobe XD Tool?](https://www.youtube.com/channel/UCKi9-7plTapZ_E9IbX_xpOw/playlists)  
