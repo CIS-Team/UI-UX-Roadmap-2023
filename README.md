@@ -26,7 +26,7 @@
     [https://drive.google.com/file/d/1aRqHcav5_nKY6QV2iAqKmxi_myy0qIUI/view?usp=sharing](https://drive.google.com/file/d/1aRqHcav5_nKY6QV2iAqKmxi_myy0qIUI/view?usp=sharing)  
     **Deadline:**  1 - 2 days.
 
--   [https://www.youtube.com/channel/UCKi9-7plTapZ_E9IbX_xpOw/playlists](https://www.youtube.com/channel/UCKi9-7plTapZ_E9IbX_xpOw/playlists)  
+-   [How to use Adobe XD Tool?](https://www.youtube.com/channel/UCKi9-7plTapZ_E9IbX_xpOw/playlists)  
     **Deadline:**  1 - 2 weeks.
 
 --------------------------------------------------------------------------------------------------------
