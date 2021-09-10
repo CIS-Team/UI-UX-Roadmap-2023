@@ -28,39 +28,39 @@
     - **Deadline:**  1 - 2 days.
 
 -   [How to use Adobe XD Tool?](https://www.youtube.com/channel/UCKi9-7plTapZ_E9IbX_xpOw/playlists)  
-    **Deadline:**  1 - 2 weeks.
+    - **Deadline:**  1 - 2 weeks.
 
 --------------------------------------------------------------------------------------------------------
 > ## ⚠ IF YOU HAVE ANY PROBLEM IN ADOBE XD START WITH Figma
 
 -   **How To Use Figma (Arabic Playlist) ?**
-[https://www.youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ](https://www.youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ)   
-**Deadline:**  1 - 2 weeks.
+    - [https://www.youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ](https://www.youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ)   
+    - **Deadline:**  1 - 2 weeks.
 
-- **Other Arabic Playlist**
- [https://www.youtube.com/playlist?list=PLuVEKNABOA4ebimBGzwPzJxip4gzacAym](https://www.youtube.com/playlist?list=PLuVEKNABOA4ebimBGzwPzJxip4gzacAym)  
+-   **Other Arabic Playlist**
+    - [https://www.youtube.com/playlist?list=PLuVEKNABOA4ebimBGzwPzJxip4gzacAym](https://www.youtube.com/playlist?list=PLuVEKNABOA4ebimBGzwPzJxip4gzacAym)  
 
-- **Figma Crash Courses (English Playlist)**
-[https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA)
+-   **Figma Crash Courses (English Playlist)**
+    - [https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA](https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA)
 --------------------------------------------------------------------------------------------------------
-- **Making Restaurant App ( From yourself )**   
-**Deadline:** 3 days.
+-   **Making Restaurant App ( From yourself )**   
+    - **Deadline:** 3 days.
 
-- **How to make your first mockup**   
-  Will add it soon 
+-   **How to make your first mockup**   
+    - Will add it soon 
 
 ## **▶Level 2 (UX Design):**
 
 -   **Basics of UX with how to make wireframes (Edraak).**
-    [https://www.edraak.org/course/course-v1:Edraak+UX1+2018_T1/](https://www.edraak.org/course/course-v1:Edraak+UX1+2018_T1/)   
-  **Deadline:**  5 - 7 days.
+    - [https://www.edraak.org/course/course-v1:Edraak+UX1+2018_T1/](https://www.edraak.org/course/course-v1:Edraak+UX1+2018_T1/)   
+    - **Deadline:**  5 - 7 days.
 
 -   **Article about How to make a persona.**
-    [http://careerfoundry.com/en/blog/ux-design/how-to-define-a-user-persona/?fbclid=IwAR0iGZk5gCcUiQbQ3_5ZPe_t2ry2g8jIu6rnEUw2PnrqSFNKBpJ4IChaMwc](http://careerfoundry.com/en/blog/ux-design/how-to-define-a-user-persona/?fbclid=IwAR0iGZk5gCcUiQbQ3_5ZPe_t2ry2g8jIu6rnEUw2PnrqSFNKBpJ4IChaMwc)   
- **Deadline:**  2 days.
+    - [http://careerfoundry.com/en/blog/ux-design/how-to-define-a-user-persona/?fbclid=IwAR0iGZk5gCcUiQbQ3_5ZPe_t2ry2g8jIu6rnEUw2PnrqSFNKBpJ4IChaMwc](http://careerfoundry.com/en/blog/ux-design/how-to-define-a-user-persona/?fbclid=IwAR0iGZk5gCcUiQbQ3_5ZPe_t2ry2g8jIu6rnEUw2PnrqSFNKBpJ4IChaMwc)   
+    - **Deadline:**  2 days.
  
 -   **Making Education App ([Requirments](https://drive.google.com/file/d/10EMWwBLgIh7b3eQabjmYPbRKfKKrOwMm/view?usp=sharing))**  
-**Deadline:**  10 days.
+    - **Deadline:**  10 days.
 
 ![Google & Udacity](https://repository-images.githubusercontent.com/100110021/20348800-2cd2-11eb-85e2-939d91f9ac5e)
 
