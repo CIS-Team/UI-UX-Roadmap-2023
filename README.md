@@ -78,7 +78,7 @@
 ## **▶More Suggestions:**
 
 -   **Resource for all material you need to use**
-    - [https://www.evernote.design/?fbclid=IwAR2veLhzqymTHjZEm2LDVNkqCAMx2Yp0KtDlcKiqkDg-c3c3IsbzAbn8a9s](https://www.evernote.design/?fbclid=IwAR2veLhzqymTHjZEm2LDVNkqCAMx2Yp0KtDlcKiqkDg-c3c3IsbzAbn8a9s)
+    - [https://www.evernote.design/](https://www.evernote.design/?fbclid=IwAR2veLhzqymTHjZEm2LDVNkqCAMx2Yp0KtDlcKiqkDg-c3c3IsbzAbn8a9s)
 
 -   **Arabic Book about ([Intro UX](https://drive.google.com/file/d/1HNvrSpFGCUS9UmQBdC1xRdIrZgAzQLoU/view?usp=sharing))**
 
