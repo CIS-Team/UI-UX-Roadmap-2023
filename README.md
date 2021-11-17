@@ -5,7 +5,6 @@
 **“We are in [CIS](https://www.facebook.com/cisteam15/) try to give you advice about How to start in UI/UX. This Document for who are interested in UI/UX”**
 
 
-## **🟦What is UI/UX?**
 
 -   " **User Interface (UI) design** is the process of transforming wireframes into a polished graphical user interface ". a UI designer’s job begins where a UX designer’s job ends—at the prototyping stage. They take the wireframes and add visual design to make them more usable, aesthetically appealing, and optimized for different screen sizes.
 
