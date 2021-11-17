@@ -230,8 +230,7 @@ Note: You can search for your idea and start to build your own design as it is o
 
 - [Evernote](https://www.evernote.design/)
 - [Good UX vs Bad UX: Landing Pages](https://www.youtube.com/watch?v=hCkmtXqbOrs) (And we looked at a number of examples of different products and interfaces while
-
- considering what might make them good (or bad) experiences for users.)
+considering what might make them good (or bad) experiences for users.)
 
 - [Design Review](https://www.youtube.com/watch?v=mt2wlw72wVY)
 - [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
