@@ -36,10 +36,12 @@
 - Arabic Tutorial :  [Youtube Playlist](https://www.youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ)
 
 ### Practice on how to use the tool
-
-- [E-Commerce App (Youtube)](https://www.youtube.com/watch?v=_5uI_BOpvkA)
-- [Plant App (Behance)](https://www.behance.net/gallery/127006201/Plant-App-Sign-up-login-UI?tracking_source=search_projects_recommended%7Clog%20in%20sign%20up)
-
+- **Adobe XD**
+     - [E-Commerce App (Youtube)](https://www.youtube.com/watch?v=_5uI_BOpvkA)
+     - [Plant App (Behance)](https://www.behance.net/gallery/127006201/Plant-App-Sign-up-login-UI?tracking_source=search_projects_recommended%7Clog%20in%20sign%20up)
+- **Figma**
+     - [Food Ordering Mobile App Design](https://youtu.be/O3BmHGNAGhM)
+     - [Full App Design.](https://youtu.be/GP91kWinPdg)
 ### Basics of UI Design.
 
 - **Colors**
@@ -115,10 +117,9 @@ Note: You can search for your idea and start to build your own design as it is o
 ### UI Design articles
 
 - [Elements of design](https://www.invisionapp.com/defined/elements-of-design)
-- [Guide to space and layout in UI design](https://www.justinmind.com/blog/your-guide-to-space-and-layout-in-ui-design/?fbclid=IwAR2ovhA6AbEpK9q3Ihd4NmrBELe0bMjtEHGmm9ocKB5j5FHPdgMHjxdmXGo)
+- [Guide to space and layout in UI design](https://www.justinmind.com/blog/your-guide-to-space-and-layout-in-ui-design/?    fbclid=IwAR2ovhA6AbEpK9q3Ihd4NmrBELe0bMjtEHGmm9ocKB5j5FHPdgMHjxdmXGo)
 - [5 Principles of Visual Design in UX](https://www.nngroup.com/articles/principles-visual-design/)
 - [10 rules of composition all designers](https://www.canva.com/learn/visual-design-composition/)
-- [https://www.uxpin.com/create-design-system-guide/](https://www.uxpin.com/create-design-system-guide/)
 - [Design Systems: Step-by-Step](https://www.uxpin.com/create-design-system-guide/)
 - [10 tips for designing the user mind](https://www.seekmomentum.com/blog/website-design/10-tips-designing-users-mind)
 
@@ -235,6 +236,15 @@ considering what might make them good (or bad) experiences for users.)
 - [Design Review](https://www.youtube.com/watch?v=mt2wlw72wVY)
 - [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [Mistakes](https://www.youtube.com/watch?v=aVs6EZP0inQ)
+- **YouTube:**
+- [Sarah Doody](https://www.youtube.com/c/SarahDoody)
+- [DesignCourse](https://www.youtube.com/user/DesignCourse)
+- [femke.design](https://www.youtube.com/channel/UCWUGGwfTfJ0-2jUS3dZqOJA)
+- [Jesse Showalter](https://www.youtube.com/user/JesseAtomic)
+
+
+
+
 
 ### Reading books
 
@@ -244,10 +254,12 @@ considering what might make them good (or bad) experiences for users.)
 - [The Actionable Guide to Starting Your Design System](https://drive.google.com/drive/folders/1KTmzWMcdzorubP3gq78Q6ur18eZv9Vji?usp=sharing)
 - [The Elements of Successful UX Design](https://drive.google.com/drive/folders/1fAQqW3e_iuoxy9eH_QIqCkMx5hYDe3wz?usp=sharing)
 - [Meaningful Mobile Typography](https://drive.google.com/drive/folders/1ZV0WnjAGzoTWIAEvHBVFi_FXxp5A_JlD?usp=sharing)
+- [More Books](https://drive.google.com/drive/mobile/folders/1Ju0u-PeAyyxvj2exvmKkzLQEx5oC7Tfu?usp=sharing)
+
  
 Congratulation, we hope for you all the best, **CIS Mentors.**
 
 ## **▶️Our Contacts📱**
 
-<a href="https://www.facebook.com/esraa.abdo.77715" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/mwlite/in/esraa-abdelrahman" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://m.facebook.com/doaa.hamdy.5895"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="http://linkedin.com/in/doaa-hamdy-8598201b4" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
