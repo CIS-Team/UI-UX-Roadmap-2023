@@ -236,7 +236,7 @@ considering what might make them good (or bad) experiences for users.)
 - [Design Review](https://www.youtube.com/watch?v=mt2wlw72wVY)
 - [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [Mistakes](https://www.youtube.com/watch?v=aVs6EZP0inQ)
-- **YouTube:**
+**YouTube:**
 - [Sarah Doody](https://www.youtube.com/c/SarahDoody)
 - [DesignCourse](https://www.youtube.com/user/DesignCourse)
 - [femke.design](https://www.youtube.com/channel/UCWUGGwfTfJ0-2jUS3dZqOJA)
