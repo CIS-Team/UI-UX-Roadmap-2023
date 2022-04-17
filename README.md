@@ -44,29 +44,26 @@
      - [Full App Design.](https://youtu.be/GP91kWinPdg)
 ### Basics of UI Design.
 
-- **Colors**
+- **Color inspiration**
+    - [Color Hunt](https://colorhunt.co/)
+    - [Coolors](https://coolors.co/)
+    - [Flat UI Colors](https://flatuicolors.com/)
+    - [Colormind](http://colormind.io/)
+    - [Colorinspire](https://colorinspire.webflow.io/)
+
     - [7 steps guide to understand color theory](https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/)
     - [Color Theory Interaction Design](https://www.interaction-design.org/literature/topics/color-theory)
     - Colors Palette
         - [Color Palettes for Designers and Artists - Color Hunt](https://colorhunt.co/)
         - [Fresh Background Gradients | WebGradients.com 💎](https://webgradients.com/)
         - [ColorSpace - Color Palettes Generator and Color Gradient Tool (mycolor.space)](https://mycolor.space/)
-    
-- **Grid**
-    - [8-Point Grid](https://spec.fm/specifics/8-pt-grid?fbclid=IwAR1g_goEhw0SNhix91zj1yLNeAvmW8Qg5Ab4ia-OiXSgvSuqgMhPlbbI9m8)
-    - [How to use Grid System](https://www.interaction-design.org/literature/article/how-to-use-grid-systems)
-    - [GRID systems for beginners](https://youtu.be/pxN8w-ywSuc)
-
-- **Typography**
-    - [Typography in UI: Guide for Beginners](https://blog.tubikstudio.com/typography-in-ui-guide-for-beginners/)
-        - [Google Fonts](https://fonts.google.com/)
-        - [Arabic Fonts](https://arbfonts.com/)
-    - [8 Rules for Perfect Typography in UI](https://blog.prototypr.io/8-rules-for-perfect-typography-in-ui-21b37f6f23ce)
-    
+        
 - **Photos**
     - [Types of images in UI design](https://uxcel.com/blog/the-basic-types-of-images-in-ui-design)
         - [Freepik](https://www.freepik.com/)
-        - [Un splash](https://unsplash.com/)
+        - [Pexels](https://www.pexels.com/)
+        - [Pixabay](https://www.shutterstock.com/search/pixabay?kw=&gclid=Cj0KCQjw0umSBhDrARIsAH7FCoc2xTMHHU8J9BQXbOJ-p8OEQjoqvNW6LnS0y9wqUdGGvnBrejDcqzAaAglhEALw_wcB)
+        - [Unsplash](https://unsplash.com/)
         - [Reshot](https://www.reshot.com/)
         - [Pinterest](https://www.pinterest.com/)
     - A little knowledge of Illustrator tool to get clear images
@@ -78,10 +75,35 @@
 - **Icons**
     - [Types and Functions of UI Icons](https://blog.tubikstudio.com/small-elements-big-impact-types-and-functions-of-ui-icons/)
     - [7 Principles of Icon Design](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2)
-        - [Flat icon](https://www.flaticon.com)
+        - [Flaticon](https://www.flaticon.com)
+        - [Icons8](https://icons8.com/)
+        - [Iconfinder](https://www.iconfinder.com/)
         - [Free icons](https://freeicons.io)
+        - [Feather icons](https://feathericons.com/)
+        - [The Noun Project](https://thenounproject.com/)
         - [Icons store](https://iconstore.co/)
         - [Simple icon](https://simpleicons.org/)
+
+- **Illustrations**
+        - [UnDraw](https://undraw.co/)
+        - [StorySet](https://www.atlassian.com/software/jira?gclsrc=aw.ds&&aceid=&adposition=&adgroup=97207397182&campaign=9795515412&creative=430047058033&device=c&keyword=story%20set&matchtype=e&network=g&placement=&ds_kids=p69502831155&ds_e=GOOGLE&ds_eid=700000001756546&ds_e1=GOOGLE&gclid=Cj0KCQjw0umSBhDrARIsAH7FCoeUXJYyw2zXSXumnFKzY0Zm_6_QbGZc2mwzy8Weo5mR9mkyWrovV4waAp4qEALw_wcB)
+        - [Vecteezy](https://www.vecteezy.com/)
+        - [Drawkit](https://drawkit.com/)
+        - [Humaaans](https://www.humaaans.com/)
+        - [Illustation](https://illustation.io/)
+        
+- **Grid**
+    - [8-Point Grid](https://spec.fm/specifics/8-pt-grid?fbclid=IwAR1g_goEhw0SNhix91zj1yLNeAvmW8Qg5Ab4ia-OiXSgvSuqgMhPlbbI9m8)
+    - [How to use Grid System](https://www.interaction-design.org/literature/article/how-to-use-grid-systems)
+    - [GRID systems for beginners](https://youtu.be/pxN8w-ywSuc)
+
+- **Typography**
+    - [Typography in UI: Guide for Beginners](https://blog.tubikstudio.com/typography-in-ui-guide-for-beginners/)
+        - [Google Fonts](https://fonts.google.com/)
+        - [Arabic Fonts](https://arbfonts.com/)
+    - [8 Rules for Perfect Typography in UI](https://blog.prototypr.io/8-rules-for-perfect-typography-in-ui-21b37f6f23ce)
+    
+
 
 - **Guidelines**
     - [IOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines?fbclid=IwAR0Q0ow4cjLjGQvpqhtORtNSel7bAlcn2GTM1DciG7rwRwJgQsleV-8Kyug)
