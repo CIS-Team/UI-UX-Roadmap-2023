@@ -109,6 +109,13 @@
     - [IOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines?fbclid=IwAR0Q0ow4cjLjGQvpqhtORtNSel7bAlcn2GTM1DciG7rwRwJgQsleV-8Kyug)
     - [Material Design](https://material.io/design/guidelines-overview)
     - [A/B Test for websites](https://goodui.org/)
+  
+- **UI Design Principles**
+     -[Golden rules of user interface design](https://maze.co/collections/ux-ui-design/ui-design-principles/)
+    - [The 4 Golden Rules of UI Design](https://xd.adobe.com/ideas/process/ui-design/4-golden-rules-ui-design/)
+    - [User Interface Design Guidelines: 10 Rules of Thumb](https://www.interaction-design.org/literature/article/user-interface-design-guidelines-10-rules-of-thumb)
+    - [10 Fundamental UI Design Principles You Need to Know](https://dribbble.com/resources/ui-design-principles)
+    - [The Basic Principles of User Interface Design](https://www.uxpin.com/studio/blog/ui-design-principles/)
 
 ### Practice many designs for web and mobile(Inspiration)
 
