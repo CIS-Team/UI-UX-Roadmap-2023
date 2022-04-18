@@ -146,7 +146,7 @@ Note: You can search for your idea and start to build your own design as it is o
 ### UI Design articles
 
 - [Elements of design](https://www.invisionapp.com/defined/elements-of-design)
-- [Guide to space and layout in UI design](https://www.justinmind.com/blog/your-guide-to-space-and-layout-in-ui-design/?    fbclid=IwAR2ovhA6AbEpK9q3Ihd4NmrBELe0bMjtEHGmm9ocKB5j5FHPdgMHjxdmXGo)
+- [Guide to space and layout in UI design](https://www.justinmind.com/blog/your-guide-to-space-and-layout-in-ui-design/)
 - [5 Principles of Visual Design in UX](https://www.nngroup.com/articles/principles-visual-design/)
 - [10 rules of composition all designers](https://www.canva.com/learn/visual-design-composition/)
 - [Design Systems: Step-by-Step](https://www.uxpin.com/create-design-system-guide/)
