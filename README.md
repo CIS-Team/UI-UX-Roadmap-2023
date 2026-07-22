@@ -57,6 +57,7 @@
         - [Color Palettes for Designers and Artists - Color Hunt](https://colorhunt.co/)
         - [Fresh Background Gradients | WebGradients.com 💎](https://webgradients.com/)
         - [ColorSpace - Color Palettes Generator and Color Gradient Tool (mycolor.space)](https://mycolor.space/)
+        - [Sez - Website Color Palette Generator and Website Theme Recoloring Tool (sez.c-sharptutorial.com)](https://sez.c-sharptutorial.com/)
         
 - **Photos**
     - [Types of images in UI design](https://uxcel.com/blog/the-basic-types-of-images-in-ui-design)
